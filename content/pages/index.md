@@ -20,7 +20,7 @@ sections:
   - section_id: services
     type: section_grid
     title: "\U0001F353 What I Do"
-    subtitle: An optional subtitle of the section
+    subtitle: Algumas das coisas que você pode me chamar para fazer.
     col_number: two
     is_numbered: true
     grid_items:
