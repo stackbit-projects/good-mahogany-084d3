@@ -9,7 +9,7 @@ sections:
       Sou uma estudante de Ciência da Computação interessada em Design e
       aprendizado de idiomas estrangeiros. Seja bem-vinde ao meu log de estudos!
     actions:
-      - label: Let's talk
+      - label: Vamos conversar?
         url: /contact
         style: button
   - section_id: latest-projects
