@@ -69,7 +69,7 @@
             {
                 "label": "Behance",
                 "url": "https://behance.net/linasdias",
-                "style": "link",
+                "style": "icon",
                 "icon": "dribbble",
                 "new_window": false,
                 "no_follow": false,
