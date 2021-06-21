@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m Lina.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Sou uma estudante de Ciência da Computação interessada em Design e
+      aprendizado de idiomas estrangeiros. Seja bem-vinde ao meu log de estudos!
     actions:
       - label: Let's talk
         url: /contact
