@@ -8,10 +8,7 @@ sections:
     content: >
       Sou uma estudante de Ciência da Computação interessada em Design e
       aprendizado de idiomas estrangeiros. Seja bem-vinde ao meu log de estudos!
-    actions:
-      - label: Vamos conversar?
-        url: /contact
-        style: button
+    actions: []
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
