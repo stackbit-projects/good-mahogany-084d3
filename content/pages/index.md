@@ -13,7 +13,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: "\U0001F34B Recent Work"
-    subtitle: "Algumas coisas que fiz para não deixar o Behance vazio.\_\U0001F34B"
+    subtitle: Algumas coisas que fiz para não deixar o Behance vazio.
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
